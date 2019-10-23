@@ -1,4 +1,4 @@
 # CppExamples
 Small C++ example programs.
 
-Hailstone Sequence Generator: ./hailstoneSequence.cpp
+Hailstone Sequence Generator: CppExamples/hailstoneSequence.cpp
